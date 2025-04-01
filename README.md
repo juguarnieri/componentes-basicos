@@ -1,8 +1,9 @@
-### Página contendo os componentes essenciais:
-View → Contêiner para estruturar elementos
+### Página contendo os componentes básicos
 
-Text → Exibe textos
+TextInput → Campo de entrada de texto
 
-Image → Exibe imagens
+Button → Botão simples
+
+TouchableOpacity → Botão personalizável
 
 ![image](https://github.com/user-attachments/assets/9c102a41-bcc4-4c38-b5b7-72f98eaf228c)
